@@ -3,14 +3,21 @@
   
   <url>
     <loc>https://anluoridge.github.io/</loc>
-    <lastmod>2022-07-10T00:02:45+10:00</lastmod>
+    <lastmod>2022-07-10T21:44:19+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://anluoridge.github.io/post/</loc>
-    <lastmod>2022-07-10T00:02:45+10:00</lastmod>
+    <lastmod>2022-07-10T21:44:19+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anluoridge.github.io/post/this-is-not-a-blog/</loc>
+    <lastmod>2022-07-10T21:44:19+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
