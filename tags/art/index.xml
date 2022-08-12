@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>art on Edith</title>
+    <link>https://anluoridge.github.io/tags/art/</link>
+    <description>Recent content in art on Edith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Fri, 12 Aug 2022 22:22:28 +1000</lastBuildDate><atom:link href="https://anluoridge.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art and Me</title>
+      <link>https://anluoridge.github.io/post/art-and-me/</link>
+      <pubDate>Fri, 12 Aug 2022 22:22:28 +1000</pubDate>
+      
+      <guid>https://anluoridge.github.io/post/art-and-me/</guid>
+      <description>我最近一直在琢磨一件事，我称之为“艺术体验的无效性”。我之前看过这么多的音乐会，话剧，音乐剧，小说等等，它们作为艺术到底给我带来了什么？或者</description>
+    </item>
+    
+  </channel>
+</rss>

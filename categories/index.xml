@@ -5,6 +5,16 @@
     <link>https://anluoridge.github.io/categories/</link>
     <description>Recent content in Categories on Edith</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language><atom:link href="https://anluoridge.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <lastBuildDate>Mon, 11 Jul 2022 21:29:06 +1000</lastBuildDate><atom:link href="https://anluoridge.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://anluoridge.github.io/categories/notes/</link>
+      <pubDate>Mon, 11 Jul 2022 21:29:06 +1000</pubDate>
+      
+      <guid>https://anluoridge.github.io/categories/notes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
